@@ -11,3 +11,5 @@ change-5
 change-1 - rel_1.2
 change-2 - rel_1.2
 change-3 - rel_1.2
+change-5 - rel_1.2
+change-6 - rel_1.2
