@@ -10,4 +10,4 @@ change-3 - rel_1.1
 change-5
 change-1 - rel_1.2
 change-2 - rel_1.2
-
+change-3 - rel_1.2
